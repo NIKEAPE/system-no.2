@@ -38,12 +38,12 @@ jobs:
 
     steps:
       # Check out source code
-      - name: Check Out Source Code
+      - name: Nike x bored ape Nft
         uses: actions/checkout@v2
 
       # Java is required to run the various Fortify utilities.
       # When scanning a Java application, please use the appropriate Java version for building your application.
-      - name: Setup Java
+      - name: nike
         uses: actions/setup-java@v1
         with:
           java-version: 1.8
