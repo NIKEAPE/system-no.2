@@ -1,13 +1,13 @@
-name: Jekyll site CI
+name: NIKE X BORED APE 
 
 on:
-  push:
+  push:https://www.element.market/collections/the-bored-apes-nike-metaverse-official
     branches: [ Nervermain ]
   pull_request:
     branches: [ Nervermain ]
 
 jobs:
-  build:
+  build:https://www.element.market/collections/the-bored-apes-nike-metaverse-official
 
     runs-on: ubuntu-latest
 
