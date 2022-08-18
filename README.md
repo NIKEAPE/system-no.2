@@ -2,9 +2,20 @@
 
 
 
+DEVERLOPER. NIKE NFT [ Bitkeep ]
 
 
 
 
-May today be the best day for you. We are very excited. In presenting the Collection Bored Ape Yacht Club roadmap our team of developers have developed this roadmap. which our team intends to present this plan as much as possible This is our community's Collection Bored Ape Yacht Club. To Polygon  blockchain ecosystem and prevent it from repeating itself as the Luna , we will bring our community's USDC Peg token project to a more sustainable level. Stay safe and keep liquidity below 39.98 USDC. We will be bringing our community's Bored Ape Yacht Club x Nike  to the market NFT. on ourder website To make our project go to the moon Go to the moon.
- see more details 
+Last months, our NFT Nike team presented their roadmap and no one believed that we could achieve what we set out to do. Some thought it would take a decade. We've done it and we’re only getting started. I’d like to thank you for placing your faith in us. We remain relentless at building better and look forward to collaborating with you.
+
+
+
+We would like to announce the good news. Our smart contract has been confirmed. The development team will fulfill a previously announced contract that we will bring NFT peg usde for a foor price of 39.99 usde within this month. Sorry for the delay  Thank you for trusting us to develop our work.
+
+
+
+0x3cBC5CF352e261cc72927605413C2f3929980fd2
+
+The Bored Apes Nike Metaverse Official 
+
